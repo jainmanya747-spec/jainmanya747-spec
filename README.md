@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Manya Jain - GitHub Banner" width="100%"/>
+<img src="assets/banner.PNG" alt="Manya Jain - GitHub Banner" width="100%"/>
 
 <br>
 
